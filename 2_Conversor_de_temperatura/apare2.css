@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    font-size:30px;
+    margin: 30px;
+    font-family:"Comic Sans Ms";
+    background-color: rgb(214, 214, 214);
+}
+
+#form1{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 4px;
+    box-shadow: 5px 5px  rgb(133, 133, 133);
+}
+
+#form2{
+    background-color: rgb(75, 250, 119);
+    height: 90px;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#h1{
+    font-size:30px;
+}
+
+#botao{
+    padding: 10px 25px;
+    font-size: 15px;
+    cursor:pointer;
+}
+
+#botao:hover{
+    background-color: rgb(189, 189, 189);
+}
+
+#resultado{
+    font-size: 25px;
+}
+
+#textBox{
+    padding:5px 10px;
+}
